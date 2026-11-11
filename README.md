@@ -55,9 +55,9 @@ Contributed to React and JavaScript development, ERPNext logistics customization
 
 ## Explore my work
 
-### [Personal Portfolio →](https://github.com/Gokulcoder-99/portfolio)
+### [Personal Portfolio →](https://portfolio-phi-amber-41.vercel.app/)
 
-My portfolio website, built with **React and Vite**.
+My portfolio website, built with **React and Vite**.\n\n[View source code →](https://github.com/Gokulcoder-99/portfolio)
 
 [Browse my repositories →](https://github.com/Gokulcoder-99?tab=repositories)
 
